@@ -17,7 +17,7 @@
 * PyTorch 1.9.0
 
 ## 文件分类
-<br>LSTM.py 是调用PyTorch中已经设置完成的相关函数，来完成的已经LSTM模型
+LSTM.py 是调用PyTorch中已经设置完成的相关函数，来完成的已经LSTM模型
 <br>LSTMLM.py 是不使用对应库中LSTM相关函数，对单层的LSTM模型进行手工构建
 <br>doubleLSTM.py 是不使用对应库中LSTM相关函数，对双层的LSTM模型进行手工构建
 
