@@ -3,13 +3,13 @@
 
 ## 相关原理
 项目主要运用PyTorch中提供的LSTM模型相关公式，如下图所示：
-![](https://github.com/Ethereal913/NLP_LSTM/blob/main/LSTM/公式.png)
-没一个小的LSTM循环单元如图所示：
-![](https://github.com/Ethereal913/NLP_LSTM/blob/main/LSTM/LSTM循环单元.png)
-单层的LSTM模型结构图如图：
-![](https://github.com/Ethereal913/NLP_LSTM/blob/main/LSTM/单层LSTM结构.png)
-双层的LSTM模型结构图如图：
-![](https://github.com/Ethereal913/NLP_LSTM/blob/main/LSTM/堆叠的LSTM.png)
+<br>![](https://github.com/Ethereal913/NLP_LSTM/blob/main/LSTM/公式.png)
+<br>每一个小的LSTM循环单元如图所示：
+<br>![](https://github.com/Ethereal913/NLP_LSTM/blob/main/LSTM/LSTM循环单元.png)
+<br>单层的LSTM模型结构图如图：
+<br>![](https://github.com/Ethereal913/NLP_LSTM/blob/main/LSTM/单层LSTM结构.png)
+<br>双层的LSTM模型结构图如图：
+<br>![](https://github.com/Ethereal913/NLP_LSTM/blob/main/LSTM/堆叠的LSTM.png)
 
 ## 运行环境
 * Python 3.8.0
@@ -23,3 +23,4 @@ doubleLSTM.py 是不使用对应库中LSTM相关函数，对双层的LSTM模型�
 
 ## 心得体会
 通过自然语言处理这门课程，我学习到了有关自然语言处理的一些基础算法模型以及常用的深度学习方法，在NLP相关领域的知识上小有收获。并且本次实践课程之后，我从没有接触过Python到开始学习如何自己实现LSTM的核心算法内容，对RNN模型以及LSTM模型有了更加深刻的认识；同时通过这次实践，我还浅略地了解了GitHub上README写法，以及小部分GFM语法学习，同时也学到了许多深度学习的前沿知识，受益匪浅，收获颇丰。
+<br>[GitHub入门工具](https://learngitbranching.js.org/?locale=zh_CN)
